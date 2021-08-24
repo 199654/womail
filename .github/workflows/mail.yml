@@ -54,7 +54,7 @@ jobs:
 
       env:
 
-        COOKIES: ${{ secrets_cookie }}
+        COOKIE: ${{ secrets_cookie }}
         
       run: |
 
